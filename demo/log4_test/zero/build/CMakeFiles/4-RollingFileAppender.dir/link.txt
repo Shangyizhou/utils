@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -W -Wall -Wextra -g  -rdynamic CMakeFiles/4-RollingFileAppender.dir/4-RollingFileAppender.cpp.o  -o 4-RollingFileAppender  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -llog4cpp -lpthread 

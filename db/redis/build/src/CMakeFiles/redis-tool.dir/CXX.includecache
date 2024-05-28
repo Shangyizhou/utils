@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shang/code/work_path/utils/db/redis/src/RedisClient.cc
+RedisClient.h
+/home/shang/code/work_path/utils/db/redis/src/RedisClient.h
+
+/home/shang/code/work_path/utils/db/redis/src/RedisClient.h
+hiredis/hiredis.h
+/home/shang/code/work_path/utils/db/redis/src/hiredis/hiredis.h
+RedisExeception.h
+/home/shang/code/work_path/utils/db/redis/src/RedisExeception.h
+Reply.h
+/home/shang/code/work_path/utils/db/redis/src/Reply.h
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+map
+-
+unistd.h
+-
+cstring
+-
+
+/home/shang/code/work_path/utils/db/redis/src/RedisExeception.h
+exception
+-
+string
+-
+
+/home/shang/code/work_path/utils/db/redis/src/Reply.h
+vector
+-
+string
+-
+

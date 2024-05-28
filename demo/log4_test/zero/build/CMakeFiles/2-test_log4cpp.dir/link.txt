@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -W -Wall -Wextra -g  -rdynamic CMakeFiles/2-test_log4cpp.dir/2-test_log4cpp.cpp.o  -o 2-test_log4cpp  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -llog4cpp -lpthread 

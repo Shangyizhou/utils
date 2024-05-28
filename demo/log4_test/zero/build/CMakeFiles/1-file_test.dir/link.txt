@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -W -Wall -Wextra -g  -rdynamic CMakeFiles/1-file_test.dir/1-file_test.cpp.o  -o 1-file_test  -L/usr/local/lib 

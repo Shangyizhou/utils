@@ -1,0 +1,12 @@
+1667899597 ALERT darren : Alert info
+1667899597 WARN darren : This will be a logged warning
+1667899597 CRIT darren : Importance depends on context
+1667899597 CRIT darren : This will show up << as 1 critical message
+1667900309 ALERT darren : Alert info
+1667900309 WARN darren : This will be a logged warning
+1667900309 CRIT darren : Importance depends on context
+1667900309 CRIT darren : This will show up << as 1 critical message
+1667900337 ALERT darren : Alert info
+1667900337 WARN darren : This will be a logged warning
+1667900337 CRIT darren : Importance depends on context
+1667900337 CRIT darren : This will show up << as 1 critical message

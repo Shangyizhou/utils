@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libredis-tool.a  CMakeFiles/redis-tool.dir/RedisClient.cc.o CMakeFiles/redis-tool.dir/Reply.cc.o
+/usr/bin/ranlib ../../lib/libredis-tool.a

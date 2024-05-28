@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/shang/code/work_path/utils/db/redis/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/work_path/utils/db/redis/src  -g -Wall -std=c++11 -fPIC -g   -o CMakeFiles/redis-tool.dir/RedisClient.cc.o -c /home/shang/code/work_path/utils/db/redis/src/RedisClient.cc",
+  "file": "/home/shang/code/work_path/utils/db/redis/src/RedisClient.cc"
+},
+{
+  "directory": "/home/shang/code/work_path/utils/db/redis/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/work_path/utils/db/redis/src  -g -Wall -std=c++11 -fPIC -g   -o CMakeFiles/redis-tool.dir/Reply.cc.o -c /home/shang/code/work_path/utils/db/redis/src/Reply.cc",
+  "file": "/home/shang/code/work_path/utils/db/redis/src/Reply.cc"
+},
+{
+  "directory": "/home/shang/code/work_path/utils/db/redis/build/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/work_path/utils/db/redis/src  -g -Wall -std=c++11 -fPIC -g   -o CMakeFiles/test.dir/test.cc.o -c /home/shang/code/work_path/utils/db/redis/examples/test.cc",
+  "file": "/home/shang/code/work_path/utils/db/redis/examples/test.cc"
+},
+{
+  "directory": "/home/shang/code/work_path/utils/db/redis/build/examples",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/work_path/utils/db/redis/src  -g -Wall -std=c++11 -fPIC -g   -o CMakeFiles/SimpleTest.dir/SimpleTest.cc.o -c /home/shang/code/work_path/utils/db/redis/examples/SimpleTest.cc",
+  "file": "/home/shang/code/work_path/utils/db/redis/examples/SimpleTest.cc"
+}
+]

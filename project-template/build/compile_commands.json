@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/shang/code/work_path/utils/project-template/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/work_path/utils/project-template/src  -g -Wall -std=c++11 -fPIC -g   -o CMakeFiles/project.dir/Hello.cc.o -c /home/shang/code/work_path/utils/project-template/src/Hello.cc",
+  "file": "/home/shang/code/work_path/utils/project-template/src/Hello.cc"
+},
+{
+  "directory": "/home/shang/code/work_path/utils/project-template/build/tests",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/work_path/utils/project-template/src  -g -Wall -std=c++11 -fPIC -g   -o CMakeFiles/test.dir/HelloTest.cc.o -c /home/shang/code/work_path/utils/project-template/tests/HelloTest.cc",
+  "file": "/home/shang/code/work_path/utils/project-template/tests/HelloTest.cc"
+}
+]

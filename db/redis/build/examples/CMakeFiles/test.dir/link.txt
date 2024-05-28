@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g -Wall -std=c++11 -fPIC -g  -rdynamic CMakeFiles/test.dir/test.cc.o  -o ../../examples/test  -lhiredis 

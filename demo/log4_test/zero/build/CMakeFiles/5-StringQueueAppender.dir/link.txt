@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -W -Wall -Wextra -g  -rdynamic CMakeFiles/5-StringQueueAppender.dir/5-StringQueueAppender.cpp.o  -o 5-StringQueueAppender  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -llog4cpp -lpthread 

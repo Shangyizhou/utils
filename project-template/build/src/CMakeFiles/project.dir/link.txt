@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libproject.a  CMakeFiles/project.dir/Hello.cc.o
+/usr/bin/ranlib ../../lib/libproject.a

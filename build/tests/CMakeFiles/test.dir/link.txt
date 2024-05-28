@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g -Wall -std=c++11 -fPIC -g  -rdynamic CMakeFiles/test.dir/HelloTest.cc.o  -o /home/shang/code/work_path/utils/project-template/tests/test  /home/shang/code/work_path/utils/project-template/lib/libproject.a -lpthread 

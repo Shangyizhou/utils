@@ -1,0 +1,7 @@
+/home/shang/code/C++/log4_test/zero/build/CMakeFiles/rebuild_cache.dir
+/home/shang/code/C++/log4_test/zero/build/CMakeFiles/1-file_test.dir
+/home/shang/code/C++/log4_test/zero/build/CMakeFiles/3-test_log4cpp.dir
+/home/shang/code/C++/log4_test/zero/build/CMakeFiles/4-RollingFileAppender.dir
+/home/shang/code/C++/log4_test/zero/build/CMakeFiles/5-StringQueueAppender.dir
+/home/shang/code/C++/log4_test/zero/build/CMakeFiles/2-test_log4cpp.dir
+/home/shang/code/C++/log4_test/zero/build/CMakeFiles/edit_cache.dir

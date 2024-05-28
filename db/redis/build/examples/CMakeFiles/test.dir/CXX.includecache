@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shang/code/work_path/utils/db/redis/examples/test.cc
+hiredis/hiredis.h
+/home/shang/code/work_path/utils/db/redis/examples/hiredis/hiredis.h
+vector
+-
+iostream
+-
+

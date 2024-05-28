@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shang/code/C++/log4_test/zero/1-file_test.cpp
+cstdio
+-
+time.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+sys/mman.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+malloc.h
+-
+sys/time.h
+-
+iostream
+-
+sstream
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/shang/code/work_path/utils/project-template/lib/libproject.a  CMakeFiles/project.dir/Hello.cc.o
+/usr/bin/ranlib /home/shang/code/work_path/utils/project-template/lib/libproject.a

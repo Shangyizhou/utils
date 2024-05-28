@@ -1,0 +1,10 @@
+/home/shang/code/work_path/utils/build/CMakeFiles/rebuild_cache.dir
+/home/shang/code/work_path/utils/build/CMakeFiles/edit_cache.dir
+/home/shang/code/work_path/utils/build/src/CMakeFiles/rebuild_cache.dir
+/home/shang/code/work_path/utils/build/src/CMakeFiles/edit_cache.dir
+/home/shang/code/work_path/utils/build/src/CMakeFiles/project.dir
+/home/shang/code/work_path/utils/build/tests/CMakeFiles/rebuild_cache.dir
+/home/shang/code/work_path/utils/build/tests/CMakeFiles/edit_cache.dir
+/home/shang/code/work_path/utils/build/tests/CMakeFiles/test.dir
+/home/shang/code/work_path/utils/build/examples/CMakeFiles/rebuild_cache.dir
+/home/shang/code/work_path/utils/build/examples/CMakeFiles/edit_cache.dir
